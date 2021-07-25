@@ -1,0 +1,13 @@
+section{
+    width:15%;
+    margin: 10% auto;
+}
+
+input{
+    display: block;
+    margin: 2px;
+}
+
+.center_align{
+    text-align: center;
+}
